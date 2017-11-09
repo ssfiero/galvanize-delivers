@@ -1,0 +1,14 @@
+nav {
+  background-color: #2767ba;
+}
+
+#index-banner {
+  background-image: url("/img/hero.jpg");
+  background-position: center;
+  height: 80%;
+  text-align: center;
+}
+
+footer.page-footer {
+  background-color: #2767ba;
+}
